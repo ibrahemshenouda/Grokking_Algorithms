@@ -2,7 +2,7 @@
 
 # Hash Tables
 # dictionary is a Hash tables
-# Faster than arrays
+# Fast in search
 # used to prevent duplicate
 # used as a cache in websites
 
