@@ -49,7 +49,3 @@ cd Chapter_01
 g++ binary_search.cpp -o binary_search
 ./binary_search
 ```
-
-## 🤝 Contributing
-
-Feel free to open issues or submit pull requests if you find any bugs, or if you'd like to contribute implementations in other programming languages!
